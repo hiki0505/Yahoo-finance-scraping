@@ -2,7 +2,7 @@
 
 ## Description of the script
 
-This script scraps historical finance data from [yahoo finance website](https://finance.yahoo.com/), based on company name, starting and ending period and frequency interval
+This script scraps historical finance data from [yahoo finance website](https://finance.yahoo.com/), based on company name, starting and ending period and frequency interval, then represents the data using RESTful services, in this case flask was used.
 
 ## Languages and tools
 
